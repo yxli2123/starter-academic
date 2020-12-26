@@ -1,6 +1,6 @@
 ---
 title: Yixiao Li
-role: B.S. EEIS in USTC
+role: Student in USTC
 bio: My research interests include computer vision
 interests: []
 social:
@@ -14,19 +14,13 @@ social:
     icon_pack: fab
     link: https://github.com/yxli2123
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Science and Technology of China
+    url: https://www.ustc.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: B.S. in Electronic Engineering and Information Science
+      institution: University of Science and Technology of China
+      year: 2016
 email: ""
 superuser: true
 highlight_name: false
